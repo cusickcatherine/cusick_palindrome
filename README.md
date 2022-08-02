@@ -24,7 +24,7 @@ Or install it yourself as:
 
 ```
 $ irb
->> require 'mhartl_palindrome'
+>> require 'cusick_palindrome'
 >> "honey badger".palindrome?
 => false
 >> "deified".palindrome?
